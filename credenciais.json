@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-concept-447310-d5",
+  "private_key_id": "c5fc3cda9865120f1fdae732bbb9f85815ed1d44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDF6dyjNswllLKM\ncsUwln2qPyZmenm0vEkXEKr20Z5Omq4sdHdxL9WuX7idyZV6au1oe4sZknPQozQV\n266eCyh6dPNCXdLtFKLo9zK6DcBGL+EJqVIDivRE+v0NwDiEaZi2h6VSjkFlbz/x\nPC5Y6+nYT1HClndf2jU9MR6MGXaw071eUWg1/+UUMf++a9Qt+rp2yJCWHM4KaYZZ\n6Fqjqyv15JNlBUxFaQ9RIWyFxXTTDtLlYCyimbzUMzMdAT1F2f49V2EX3sGLWO88\n5550evzp5tgKrXIkLA3vGrf+IGiRsWQQEm0/QNOfmjmYjtxLTRtE66F41MgGadh7\nqvgXEtAzAgMBAAECggEAJvCU+z34W7qOiMi6GI27iugi543YbWGQZevfH3Ht2lxf\nwZpmt8voGId33P/BG9V3AZQxMaZZiCbcRCK1kB306GcjR58LNZ9WUEz225mCB606\n8zovy0enOP1DFdYIqLDYHa3BruUTY+BILfAf1FoSZ/9vQEB3m1HlILWN45XM/wxJ\nAODJSWyAfcKAcxaa4cING6DA85qLrFMnoug7B2INlSq8AwomJqhrHngj00OhI5kT\nnv115OHLN7QGPcvzF5A65HnYAt+dBEwy0K92Ya3skLO3OVzZsZXmbPWlYlB0beW2\nRVX3Kvp+Xz2My1mI4MysNsP/mnu/zMecf/imKESATQKBgQD63gA91BDoDaFHniFX\nn66RrKAQIYkZR92tpMB/bOotv5DJQszHMXjyISdxlLxpfFO5ZDxL6oC/NEbgU2DJ\nlgUVzmSEqpPsqHM5BBVEz6mJo1ozUcQ5UejpDXb3+zcF7S2+tHNUfV7qvmyxKqkf\nEIh76mFLeQvkQ0HWpjKaZDlV5wKBgQDJ9n+tycf1TrFk0cJ4qEl2QRKzfc8SgB7A\nsZWvzVcqPiSsgcWp+rPuysxcdBvJsF1jGYsZGyH48Hk+fbQW0nq8DAY36D36ikRw\nsAk2uo/AHaLFhMO3vFKHvowbk39X5RrEUYBfmvyEKJUO1Dw8bH/4FHGSRkb5Ikuw\nKkfzbMYR1QKBgFf7zmfg3YEVbrAYhKcfqPEMcyLVMCk+rD+/XYgTYdpjqlr746gk\n8L8y44uRV7dDVHXb8s3JVBg7NHRuqa5pwCTSuyxQSwsgVTD0/qSglFxifzsqfUCB\nOsep4kS8xaJ9eaK91QkX41c/LA3C4Ye0m7miDTeUH5iSAiBPL8Y4SmeXAoGADHZV\ncpfc6tosQBhhc6iOv+lMCh9dQ7r8Ks/KeMqm8khbYvmvBMofiECjU6Emhc+IM7FD\n0AzIj9/m22BOWIosYKYtTA3cpTUa/AkgyGvCqwwpGx8SJKhOP2oWoyz60qWkfTC6\nRyv9IPqQGBYokWHwk5JPX8NOZdkj6n7xaafwoPECgYEA9PnyVU4Yc6lALSGkot1g\nmYb5/l0VsfTVEJE7GZZfvzOx4Du2khgsjhxEdcUwstYltYUCtmOoD1+ZbCI5V/LT\npoUAnOdkxPm/+NTZo5oCDpqs7Q5VNLnlJqNjE6yCtC+EZKq3mBBEZMOaxumdMmp0\nixhkZbWku9iPt7V85GLu4iw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mugi-wallet@virtual-concept-447310-d5.iam.gserviceaccount.com",
+  "client_id": "112907520603164194721",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mugi-wallet%40virtual-concept-447310-d5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
